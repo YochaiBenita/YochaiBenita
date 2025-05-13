@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Yochai Benita 👋
 
-<!--
-**YochaiBenita/YochaiBenita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student at Hadassah Academic College  
+🏅 Graduate of the Presidential Excellence Program  
+💡 Passionate about problem-solving, performance-oriented development, and writing clean, maintainable code  
+⚙️ Always eager to explore new technologies and deepen my understanding of software systems
 
-Here are some ideas to get you started:
+### 💻 Languages & Technologies
+- C++
+- Python
+- JavaScript
+- C
+- Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 Get in touch
+🔗 [LinkedIn](https://www.linkedin.com/in/yochaibenita/)  
+📧 yochaibenita@gmail.com
