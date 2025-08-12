@@ -14,4 +14,4 @@
 
 ### 📬 Get in touch
 🔗 [LinkedIn](https://www.linkedin.com/in/yochaibenita/)  
-📧 yochaibenita@gmail.com
+📧 yochai.benita@gmail.com
